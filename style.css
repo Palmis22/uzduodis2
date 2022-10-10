@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.virsus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-style: bold;
+}
+
+.divas {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10%;
+
+}
+
+.vista {
+    background-color: aqua;
+    height: 50%;
+    width: 45%;
+    position: relative;
+}
+
+.kiaule {
+    background-color: bisque;
+    height: 50%;
+    width: 45%;
+    position: relative;
+}
+
+.sushi {
+    background-color: blueviolet;
+    height: 50%;
+    width: 100%;
+    position: relative;
+}
+.vista2 {
+    position: relative;
+   top: 5px;
+   left: 200px;
+}
+
+.kiaule2{
+ 
+}
+
+.sushi2 {
+  
+}
+
+.tekstas1 {
+   
+}
+
+.tekstas2 {
+   
+}
+
+.tekstas3 {
+   
+}
